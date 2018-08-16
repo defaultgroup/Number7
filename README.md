@@ -47,6 +47,6 @@
 <input type="button" value="5.커널형이어폰" onclick="alert('제시되는 키워드는 J')">
 	<br>
 	<br>
-<a href="https://defaultgroup.github.io/Number9/"> <button> 다음문제로! </button></a> &ensp; &ensp;
+<a href="https://defaultgroup.github.io/Number8/"> <button> 다음문제로! </button></a> &ensp; &ensp;
 <a href="https://defaultgroup.github.io/END/"> <button> 최종정답으로! </button></a>
 </body>
