@@ -37,13 +37,13 @@
 <body>
 	<h1 id="mondai"></h1>
 	<br>
-	<h1>7. 이것은 무엇일까요? </h1>
+	<h2>7. 이것은 무엇일까요? </h2>
 	<img src="https://shopping-phinf.pstatic.net/main_1077690/10776906666.20161214174829.jpg?type=f300" width="600" height="428">
 	<br>
 	<br>
-	<a href="https://www.naver.com/"><button onclick="nono();">1.이어폰</button></a>&nbsp;
-	<a href="https://www.naver.com/"><button onclick="chang();">2.에어팟</button></a>&nbsp;
-	<a href="https://www.naver.com/"><button onclick="nono();">3.에어폰</button></a>&nbsp;
-	<a href="https://www.naver.com/"><button onclick="nono();">4.이어포드</button></a>&nbsp;
-	<a href="https://www.naver.com/"><button onclick="nono();">5.에어폰</button></a>
+<a href="https://www.naver.com/"><button onclick="nono();">1.이어폰</button></a> &nbsp;
+<a href="https://www.naver.com/"><button onclick="chang();">2.에어팟</button></a> &nbsp;
+<a href="https://www.naver.com/"><button onclick="nono();">3.에어폰</button></a> &nbsp;
+<a href="https://www.naver.com/"><button onclick="nono();">4.이어포드</button></a >&nbsp;
+<a href="https://www.naver.com/"><button onclick="nono();">5.커널형 이어폰</button></a>
 </body>
