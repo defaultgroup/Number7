@@ -41,18 +41,9 @@
 	<img src="https://shopping-phinf.pstatic.net/main_1077690/10776906666.20161214174829.jpg?type=f300" width="600" height="428">
 	<br>
 	<br>
-	<a href="https://www.naver.com/">
-	<button onclick="nono();">1.이어폰</button></a>
-	<a href="https://www.naver.com/">
-	<button onclick="chang();">2.에어팟</button>
-	</a>
-	<a href="https://www.naver.com/">
-	<button>3.에어폰</button>
-	</a>
-	<a href="https://www.naver.com/">
-	<button>4.이어포드</button>
-	</a>
-	<a href="https://www.naver.com/">
-		<button>5.에어폰</button>
-	</a>
+	<a href="https://www.naver.com/"><button onclick="nono();">1.이어폰</button></a> &nbsp;
+	<a href="https://www.naver.com/"><button onclick="chang();">2.에어팟</button></a> &nbsp;
+	<a href="https://www.naver.com/"><button>3.에어폰</button></a> &nbsp;
+	<a href="https://www.naver.com/"><button>4.이어포드</button></a> &nbsp;
+	<a href="https://www.naver.com/"><button>5.에어폰</button></a>
 </body>
