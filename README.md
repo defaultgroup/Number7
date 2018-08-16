@@ -26,10 +26,10 @@
 	</style>
 	<script>
 		function chang(){
-			alert("정답");
+			alert("정답입니다 키워드는 T입니다");
 		}
 		function nono(){
-			alert("오답");
+			alert("오답입니다 다시 생각해보세요");
 		}
 	</script>		
 </head>
@@ -40,9 +40,9 @@
 	<img src="https://shopping-phinf.pstatic.net/main_1077690/10776906666.20161214174829.jpg?type=f300" width="600" height="428">
 	<br>
 	<br>
-<a href="https://www.naver.com/"><button onclick="nono();">1.이어폰</button></a>
-<a href="https://www.naver.com/"><button onclick="chang();">2.에어팟</button></a>
-<a href="https://www.naver.com/"><button onclick="nono();">3.에어폰</button></a>
-<a href="https://www.naver.com/"><button onclick="nono();">4.이어포드</button></a>
-<a href="https://www.naver.com/"><button onclick="nono();">5.커널형 이어폰</button></a>
+<a href="https://defaultgroup.github.io/Number7/"><button onclick="nono();">1.이어폰</button></a>
+<a href="https://defaultgroup.github.io/Number8/"><button onclick="chang();">2.에어팟</button></a>
+<a href="https://defaultgroup.github.io/Number7/"><button onclick="nono();">3.에어폰</button></a>
+<a href="https://defaultgroup.github.io/Number7/"><button onclick="nono();">4.이어포드</button></a>
+<a href="https://defaultgroup.github.io/Number7/"><button onclick="nono();">5.커널형 이어폰</button></a>
 </body>
