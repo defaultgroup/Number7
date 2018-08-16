@@ -40,9 +40,13 @@
 	<img src="https://shopping-phinf.pstatic.net/main_1077690/10776906666.20161214174829.jpg?type=f300" width="600" height="428">
 	<br>
 	<br>
-<a href="https://defaultgroup.github.io/Number7/"><button onclick="nono();">1.이어폰</button></a>
-<a href="https://defaultgroup.github.io/Number8/"><button onclick="chang();">2.에어팟</button></a>
-<a href="https://defaultgroup.github.io/Number7/"><button onclick="nono();">3.에어폰</button></a>
-<a href="https://defaultgroup.github.io/Number7/"><button onclick="nono();">4.이어포드</button></a>
-<a href="https://defaultgroup.github.io/Number7/"><button onclick="nono();">5.커널형 이어폰</button></a>
+<input type="button" value="1. 이어폰" onclick="alert('제시되는 키워드는 W')"> &ensp;
+<input type="button" value="2. 에어팟" onclick="alert('제시되는 키워드는 T')"> &ensp;
+<input type="button" value="3. 에어폰" onclick="alert('제시되는 키워드는 Q')"> &ensp;
+<input type="button" value="4. 이어포드" onclick="alert('제시되는 키워드는 L')"> &ensp;
+<input type="button" value="5. 커널형이어폰" onclick="alert('제시되는 키워드는 J')">
+	<br>
+	<br>
+<a href="https://defaultgroup.github.io/Number9/"> <button> 다음문제로! </button></a> &ensp; &ensp;
+<a href="https://defaultgroup.github.io/END/"> <button> 최종정답으로! </button></a>
 </body>
