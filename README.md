@@ -25,12 +25,12 @@
 		margin: 0 auto;
 		}
 	</style>
-	<script ="text/javascript">
+	<script>
 		function chang(){
-			alert("정답")
+			alert("정답");
 		}
 		function nono(){
-			alert("오답")
+			alert("오답");
 		}
 	</script>		
 </head>
@@ -56,4 +56,3 @@
 		<button>5.에어폰</button>
 	</a>
 </body>
-</html>
