@@ -40,11 +40,11 @@
 	<img src="https://shopping-phinf.pstatic.net/main_1077690/10776906666.20161214174829.jpg?type=f300" width="600" height="428">
 	<br>
 	<br>
-<input type="button" value="1. 이어폰" onclick="alert('제시되는 키워드는 W')">
-<input type="button" value="2. 에어팟" onclick="alert('제시되는 키워드는 T')">
-<input type="button" value="3. 에어폰" onclick="alert('제시되는 키워드는 Q')">
-<input type="button" value="4. 이어포드" onclick="alert('제시되는 키워드는 L')">
-<input type="button" value="5. 커널형이어폰" onclick="alert('제시되는 키워드는 J')">
+<input type="button" value="1.이어폰" onclick="alert('제시되는 키워드는 E')">
+<input type="button" value="2.에어팟" onclick="alert('제시되는 키워드는 T')">
+<input type="button" value="3.에어폰" onclick="alert('제시되는 키워드는 Y')">
+<input type="button" value="4.이어포드" onclick="alert('제시되는 키워드는 R')">
+<input type="button" value="5.커널형이어폰" onclick="alert('제시되는 키워드는 J')">
 	<br>
 	<br>
 <a href="https://defaultgroup.github.io/Number9/"> <button> 다음문제로! </button></a> &ensp; &ensp;
